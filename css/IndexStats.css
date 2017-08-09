@@ -1,0 +1,11 @@
+.incApp-time{
+	font-weight: bold !important;
+}
+
+.incApp-services{
+	font-style: italic !important;
+}
+
+#wh-zero, #wm-zero{
+	display:none;
+}
